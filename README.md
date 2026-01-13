@@ -1,4 +1,4 @@
-# Hi there, I'm Eastin 👋 
+# Hi there, I'm Eastin !
 
 ### 🚀 Full Stack Developer | Product Strategist | AI Builder
 I bridge the gap between product vision and technical execution. Currently focused on building intelligent IDEs and high-performance backend systems.
