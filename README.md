@@ -1,4 +1,4 @@
-# Hi there, I'm Hao 👋 
+# Hi there, I'm Eastin 👋 
 
 ### 🚀 Full Stack Developer | Product Strategist | AI Builder
 I bridge the gap between product vision and technical execution. Currently focused on building intelligent IDEs and high-performance backend systems.
@@ -43,8 +43,3 @@ Tennis isn't just a hobby; it's a discipline.
 ### 📫 Connect with Me
 - **Portfolio:** [tsehaosu.com](https://tsehaosu.com)
 - **Email:** Reach out via my website!
-
----
-
-### 📊 GitHub Activity
-![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=tseHaoSu&show_icons=true&theme=transparent)
