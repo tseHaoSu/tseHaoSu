@@ -17,6 +17,6 @@ Tennis maniac currently perfecting the **slice backhand** and **first serve**. A
 ---
 
 ### 📫 Connect
-[tsehaosu.com](https://tsehaosu.com) • [LinkedIn](https://linkedin.com/in/tsehaosu) 
+[tsehaosu.com](https://tsehaosu.com) • [LinkedIn](https://www.linkedin.com/in/tse-hao-su-2769091ab/) 
 
-![Hao's Stats](https://github-readme-stats.vercel.app/api?username=tseHaoSu&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
