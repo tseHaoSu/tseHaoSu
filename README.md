@@ -11,7 +11,7 @@
 ---
 
 ### 🎾 
-Tennis maniac currently perfecting the **slice backhand** and **first serve**. Always up for a match or talking tech over a set!
+Tennis maniac currently perfecting the **slice backhand** and **first serve**. Always prefer forehand over backhand!
 
 ---
 
