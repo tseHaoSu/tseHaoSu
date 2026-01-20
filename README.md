@@ -1,8 +1,5 @@
 # Hi, I'm Eastin 👋 
 
-**Hi** 
-potato
-
 ---
 
 ### 🛠️ Stack 
@@ -12,7 +9,7 @@ potato
 ---
 
 ### 🎾 
-Tennis maniac currently perfecting the **slice backhand** and **first serve**. Always prefer forehand over backhand!
+Tennis maniac currently perfecting the **slice backhand** and **first serve**. 
 
 ---
 
