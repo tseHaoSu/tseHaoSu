@@ -9,8 +9,8 @@
 
 ---
 ### 🎾 
-Tennis maniac currently perfecting the **slice backhand** and **first serve**. 
+currently perfecting the **slice backhand** and **first serve**. 
 
 ---
-### 📫 Connect
+### 📫 
 [tsehaosu.com](https://tsehaosu.com) • [LinkedIn](https://www.linkedin.com/in/tse-hao-su-2769091ab/)
