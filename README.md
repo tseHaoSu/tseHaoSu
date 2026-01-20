@@ -1,7 +1,7 @@
 # Hi, I'm Eastin 👋 
 
-**Full Stack Developer** 
-I build intelligent systems and high-performance backends, bridging the gap between product vision and technical execution.
+**Hi** 
+potato
 
 ---
 
