@@ -1,4 +1,4 @@
-# Hi, I'm Eastin 👋 
+# Hi, I'm Eastin
 ← that's potato 🥔
 ---
 ### 🛠️ 
