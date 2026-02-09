@@ -3,13 +3,9 @@
 # Hi, I'm Eastin 👋
 *← that's potato 🥔*
 
----
-
 ### 🎾 Tennis
 
 *currently perfecting the slice backhand and first serve*
-
----
 
 ### 📫 Connect
 
